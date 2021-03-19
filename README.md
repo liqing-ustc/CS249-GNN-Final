@@ -1,7 +1,7 @@
 # On the Extrapolation of Graph Neural Networks and Beyond
 **Group members (Rolling a Dice)**: Yihe Deng, Yu Yang, Qing Li, Shuwen Qiu.
 
-This repository hosts the code, the [report](CS249_Project_Report.pdf), and the [presentation slides]() for our CS-249-GNN final project in 2021 Winter.
+This repository hosts the code, the [report](CS249_Project_Report.pdf), and the [presentation slides](CS249 Project Presentation.pdf) for our CS-249-GNN final project in 2021 Winter.
 
 ## Prerequisites
 * Ubuntu 20.04
