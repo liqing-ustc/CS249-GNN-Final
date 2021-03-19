@@ -1,0 +1,1 @@
+./data/maxdeg/tmp/max_degree_dim3_sampling:uniform_graph:general_N20_30_C5_test_Ggeneral_N50_100_C10.pickle
